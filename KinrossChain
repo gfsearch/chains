@@ -1,0 +1,23 @@
+Can You Please Add KinrossChain
+
+{
+  "name": "KINROSS",
+  "chain": "KinrossChain",
+  "rpc": ["https://virtual.optimism.rpc.tenderly.co/34bf1324-c779-48da-b5f7-f1caa8b6b393"],
+  "nativeCurrency": { vETH
+    "name": "Kinross",
+    "symbol": "vETH",
+    "decimals": 18
+  },
+  "infoURL": "https://rpc-kinross.uk",
+  "shortName": "Kinross",
+  "chainId": 1921,
+  "networkId": 10,
+  "explorers": [
+    {
+      "name": "Kinross Scan",
+      "url": "http://https://virtual.optimism.rpc.tenderly.co/34bf1324-c779-48da-b5f7-f1caa8b6b393",
+      "standard": "EIP3091"
+    }
+  ]
+}
